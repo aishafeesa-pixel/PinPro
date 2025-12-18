@@ -1,0 +1,7 @@
+{
+  "name": "PinPro SaaS - Pinterest Pin Design Suite",
+  "description": "A comprehensive SaaS platform for generating high-converting Pinterest pins using AI and advanced canvas editing. Includes user dashboards, multi-language support, and a full admin panel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
